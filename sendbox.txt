@@ -1,0 +1,46 @@
+name = sendbox
+Gulp & Bootstrap 5 & SASS
+Zero Dependency – No jQuery
+SCSS files included
+SEO-ready commented HTML5 files
+Valid HTML5 & CSS3
+Thorough help documentation with code snippets
+Well-written code
+Responsive layout
+Retina-ready
+Modern design
+Multipurpose usage: Demos for startup, business, SaaS, software, SEO, marketing, agency, portfolio, personal blog, journal, shop, ecommerce, photography, wedding, travel, etc
+Google fonts
+27 unique home pages and landing pages
+Free updates
+250+ beautiful UI elements
+130+ pre-made ready to use blocks
+100+ neatly coded pages
+Modern and eye-catching portfolio layouts
+Onepage layout option with smooth scroll
+Handcrafted and carefully put together inner pages to choose from
+Color options
+Font options
+High quality retina ready icon sets
+Duotone icon option
+Font icon option
+Image background option
+Video background option
+Various header and menu options
+Offcanvas mobile menu and info panel
+Mega menu with light and dark options
+Sticky header
+Sticky footer
+Notification bar
+Modal popup
+Animations on scroll with scrollCue.js
+Swiper.js
+Slider with animated captions
+Filterable gallery with Isotope.js
+Mailchimp compatible
+Contact form without page refresh
+Video player HTML5, YouTube and Vimeo video support with Plyr
+Lightbox for images and videos
+Top-notch support
+
+link = 
